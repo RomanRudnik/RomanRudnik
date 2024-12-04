@@ -1,11 +1,11 @@
 first = {"first key": "TFC LNTU",
-         "Second key": 17,
+         "Second key": 16,
          "Trird key": {"One": 21,
-                       "Two": 'Denys',
+                       "Two": 'Roman',
                        "three": True,
                        "four": False,
                        "five": (1, 2, 3, 4, 5)},
-         "Fourh key": "Stohodiuk"}
+         "Fourh key": "Rudnik"}
 
 print(first)
 
